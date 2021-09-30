@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammedmsalih98
-- 👀 I’m interested in optimization, AI and Machine Learning and Data Analysis. 
-- 🌱 I’m currently learning Data Science and AI
+- 👀 I’m interested in optimization, AI and Machine Learning, and Data Analysis. 
+- 🌱 I’m currently learning Data Science and AI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
